@@ -1,0 +1,5 @@
+mvn clean compile package
+mvn clean deploy -DskipTests -Darguments="gpg.passphrase=私钥密码"
+
+备忘：
+#my-string-replace-plugin=cn.com.kun.skywalking.plugin.stringdemo.StringReplaceInstrumentation
