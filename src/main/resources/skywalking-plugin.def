@@ -1,2 +1,3 @@
 my-skywalking-demo-service-plugin=cn.com.kun.skywalking.plugin.demo2.SkywalkingDemoService2Instrumentation
 my-string-replace-plugin=cn.com.kun.skywalking.plugin.stringdemo.StringReplaceInstrumentation
+my-redistemplate-plugin=cn.com.kun.skywalking.plugin.redistemplate.RedisTemplateInstrumentation
